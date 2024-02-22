@@ -27,3 +27,10 @@ function name (firstName, lastName = 'Gupta') {
 }
 const myName = name('abhi', 'poja');
 console.log(myName);
+
+function friends (numbs = []) {
+
+}
+function person(human = {}) {
+    
+}
